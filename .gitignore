@@ -8,7 +8,9 @@
 package.json
 .eslintrc.json
 !now.json
+!now.json*
 !/src/base.js
+!/src/base.js*
 # testing
 /coverage
 
