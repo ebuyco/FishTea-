@@ -7,7 +7,6 @@
 
 package.json
 .eslintrc.json
-base.js
 now.json
 # testing
 /coverage
