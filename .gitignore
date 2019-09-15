@@ -7,8 +7,8 @@
 
 package.json
 .eslintrc.json
-./src/base.js
-
+base.js
+now.json
 # testing
 /coverage
 
